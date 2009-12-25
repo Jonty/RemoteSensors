@@ -21,7 +21,7 @@ Demo
 
 3. Save the following line as a bookmarklet in your browser:
     
-    javascript:var%20e=document.createElement('script');e.setAttribute('language','javascript');e.setAttribute('src','http://www.jonty.co.uk/bits/GoogleMapSensors.js');document.body.appendChild(e);void(0);
+    javascript:var%20e=document.createElement('script');e.setAttribute('language','javascript');e.setAttribute('src','http://github.com/Jonty/RemoteSensors/raw/master/examples/GoogleMapSensors.js');document.body.appendChild(e);void(0);
 
 4. Browse to a google map, hit the bookmarklet, and when prompted enter the IP:PORT given to you by remoteSensors.pl
 
