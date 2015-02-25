@@ -15,7 +15,7 @@ interactively scrolls the map by tilting the Android device.
 Demo
 ----
 
-1. Download remoteSensors.pl and place it in the Android Scripting Environments scripts directory on the SD card of the Android device. Connect the device to the same wifi network as the computer running google maps.
+1. Download remoteSensors.py and place it in the Android Scripting Environments scripts directory on the SD card of the Android device. Connect the device to the same wifi network as the computer running google maps.
 
 2. Start remoteSensors.pl from within the Android Scripting Environment, after a few seconds it will give you an IP address and port.
 
